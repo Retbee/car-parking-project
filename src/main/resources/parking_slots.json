@@ -1,0 +1,107 @@
+[
+  {
+    "slotId": 1,
+    "isFree": true,
+    "section": "a",
+    "row": 1,
+    "placeNumber": 1
+  },
+  {
+    "slotId": 2,
+    "isFree": true,
+    "section": "a",
+    "row": 1,
+    "placeNumber": 2
+  },
+  {
+    "slotId": 3,
+    "isFree": false,
+    "section": "a",
+    "row": 1,
+    "placeNumber": 3
+  },
+  {
+    "slotId": 4,
+    "isFree": true,
+    "section": "a",
+    "row": 1,
+    "placeNumber": 4
+  },
+  {
+    "slotId": 5,
+    "isFree": true,
+    "section": "a",
+    "row": 1,
+    "placeNumber": 5
+  },
+  {
+    "slotId": 6,
+    "isFree": true,
+    "section": "a",
+    "row": 1,
+    "placeNumber": 6
+  },
+  {
+    "slotId": 7,
+    "isFree": true,
+    "section": "a",
+    "row": 1,
+    "placeNumber": 7
+  },
+  {
+    "slotId": 8,
+    "isFree": true,
+    "section": "a",
+    "row": 1,
+    "placeNumber": 8
+  },
+  {
+    "slotId": 9,
+    "isFree": true,
+    "section": "b",
+    "row": 1,
+    "placeNumber": 1
+  },
+  {
+    "slotId": 10,
+    "isFree": true,
+    "section": "b",
+    "row": 1,
+    "placeNumber": 2
+  },
+  {
+    "slotId": 11,
+    "isFree": true,
+    "section": "b",
+    "row": 1,
+    "placeNumber": 3
+  },
+  {
+    "slotId": 12,
+    "isFree": true,
+    "section": "b",
+    "row": 1,
+    "placeNumber": 4
+  },
+  {
+    "slotId": 13,
+    "isFree": true,
+    "section": "b",
+    "row": 1,
+    "placeNumber": 5
+  },
+  {
+    "slotId": 14,
+    "isFree": true,
+    "section": "b",
+    "row": 1,
+    "placeNumber": 6
+  },
+  {
+    "slotId": 15,
+    "isFree": true,
+    "section": "b",
+    "row": 1,
+    "placeNumber": 7
+  }
+]
